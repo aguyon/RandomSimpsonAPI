@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  margin: 30px auto;
+  width: 50%;
+}
+
+.simpleSimpson {
+  text-align: center;
+  margin-top: -15px;
+  border: 2px solid rgb(226, 185, 0);
+  background-color: rgba(73, 154, 235, 0.6);
+  border-radius: 10px;
+}
+
+.btnRandom {
+  background-color: #FEDA36;
+  width: 200px;
+  height: 60px;
+  border: 2px solid rgb(226, 185, 0);
+  border-radius: 10px;
+  font-size: 1.3em;
+  font-weight: 900;
+  margin-bottom: 50px;
+}
+
+.btnRandom:focus {
+  outline: none !important;
+  border: 2px solid rgb(226, 185, 0);
+  border-radius: 10px;
+}
+
+.imgSimpson {
+  width: auto;
+  height: 450px;
+}
+
+blockquote {
+  width: auto;
+  height: 50px;
+}
